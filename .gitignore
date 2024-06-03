@@ -8,6 +8,7 @@
 *.exe
 *.out
 *.app
+delete_dnodeint
 
 # Ignore log files
 *.log
