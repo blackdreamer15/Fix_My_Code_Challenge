@@ -1,0 +1,48 @@
+# Ignore compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore dependencies and build artifacts
+node_modules/
+build/
+dist/
+
+# Ignore configuration files with sensitive information
+config.ini
+secrets.json
+
+# Ignore backup files
+*.backup
+*.old
+
+# Ignore generated documentation
+docs/
+
+# Ignore specific project files
+project-specific-file.txt
+
+# Ignore files in a specific directory
+specific-directory/
